@@ -1,1 +1,1 @@
-"# library-fishinglicensecore" 
+"# An application developed as a .NET/OOO refresher based on the cost of license fees in Florida.  THe purpose was to determine whether a lifetime license was more cost effective than a year to year give the age of the person. 
